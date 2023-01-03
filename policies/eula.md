@@ -16,11 +16,11 @@ The Software or Product is licensed, not sold to You by Silverzone for use only 
 # 5. SOFTWARE
 The Software or Product referred to in this agreement, means, collectively and/or as applicable:
 
-The Software or Product package, if any;
-Any and all contents, components, attachments, software, media and code with which this EULA is provided and delivered through any medium;
-If applicable, any and all game design, characters, images, graphics, photographs, art, art work, clip art, text, fonts, music, sounds, voices or other sensory content (the “Game Content”);
-If applicable, any and all product design, background code, service workers, front-end structure, network code, integrated stylesheets, display assets and libraries (the “Product Content”);
-Upgrades, modified versions, updates, additions, expansion packs and copies of the Software or Product (the “Upgrades”), if any, provided to You by Silverzone under this EULA.
+1. The Software or Product package, if any;
+2. Any and all contents, components, attachments, software, media and code with which this EULA is provided and delivered through any medium;
+3. If applicable, any and all game design, characters, images, graphics, photographs, art, art work, clip art, text, fonts, music, sounds, voices or other sensory content (the “Game Content”);
+4. If applicable, any and all product design, background code, service workers, front-end structure, network code, integrated stylesheets, display assets and libraries (the “Product Content”);
+5. Upgrades, modified versions, updates, additions, expansion packs and copies of the Software or Product (the “Upgrades”), if any, provided to You by Silverzone under this EULA.
 
 The Software or Product referred to in this agreement may contain assets and libraries from third-party sources, such as Unity Technologies (Unity Software Inc.) and its providers. These assets are governed by agreements, policies and licenses, as agreed upon between Silverzone and the interested parties, such as Unity Technologies or its providers. These assets and libraries are not intellectual property of Silverzone and thus, are not governed by this agreement.
 
