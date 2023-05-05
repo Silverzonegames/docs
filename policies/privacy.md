@@ -10,15 +10,15 @@ By using the service, you ("the user") agree to this Privacy Policy.
 
 
 # Information Silverzone collects
-Silverzone does not intentionally collect information or track it's users, however the website does collect information using the Microsoft Azure cloud platform, as the website is hosted on Azure infrastructure.
+Silverzone does not intentionally collect information or track it's users, however the website does collect information using the Microsoft Azure ("Azure") cloud platform, as the website is hosted on Azure infrastructure.
 
 
 ## What data Silverzone collects
-Silverzone collects metrics about page requests and data transfer, as that information is shown in the Azure portal for the website and cannot be disabled. The information collected can not be associated to an user.
+Silverzone collects metrics about page requests and data transfer, as that information is shown in the Azure portal for the website and cannot be disabled. The information collected can not be associated to any user.
 
 
 ## How Silverzone uses collected data
-Silverzone does not use the collected data in any way.
+Silverzone uses the data collected by Azure infrastructure to measure the service capacity
 
 # About this policy
 
@@ -34,6 +34,6 @@ effect.
 Any policy appendix change is also under this clause.
 
 ## Appendix A:
-As of March 5th 2023 we has removed the Google Analytics trackers from the website as we has not been monitoring them and considers then unnecessary, however the analytics tracker may be re-added to the site under a policy change notification to optimize and tailor the website to the audience (eg. providing translations) and to maintain service performance.
+As of March 5th 2023 we has removed the Google Analytics trackers from the website as we has not been monitoring them and consider them unnecessary, however the analytics tracker(s) may be re-added to the site under a policy change notification to optimize and tailor the website to the audience (eg. providing translations) and to maintain service performance.
 
 All changes to analytics will be notified beforehand and will be able to be opted-out of.
