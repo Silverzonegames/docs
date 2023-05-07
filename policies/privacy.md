@@ -1,7 +1,7 @@
 # Privacy Policy
-This Privacy Policy was modified and updated on 5th of March 2023
-(5.3.2023, Mar 5 2023)
-Policy last updated in [github.com/Silverzonegames/docs](https://github.com/Silverzonegames/docs) (5.3.2023)
+This Privacy Policy was modified and updated on 5th of May 2023
+(5.5.2023, May 5 2023)
+Policy last updated in [github.com/Silverzonegames/docs](https://github.com/Silverzonegames/docs) (5.5.2023)
 
 # Introduction
 Silverzone Oy ("Silverzone", "we") owns and operates the silverzonegames.com domain,
