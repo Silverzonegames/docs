@@ -1,2 +1,3 @@
 * @silverzonegames/admins
 *.md @silverzonegames/release-admins @silverzonegames/admins
+/policies/**/* @silverzonegames/legal
