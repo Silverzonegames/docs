@@ -17,7 +17,9 @@ Security documentation will be kept up-to-date by Silverzone and no community up
 
 ## Updates to policies (policies folder)
 Updates to policies are initiated by Silverzone, after which they will be converted to a draft. After a draft is published a month (31 days) of commenting period will exist
-so the community can get their opinion in. After this expres, if consensus has been reached the policy will be published. __DOES NOT APPLY TO: EULA__
+so the community can get their opinion in. After this expres, if consensus has been reached the policy will be published. <br/>
+The following policies are exment from this rule: Silverzone EULA, Silverzone Developer EULA and Silverzone Terms of Service
 
-# Primary maintainer/admin:
-[Luukas Paukkonen](https://github.com/luukasp)
+# Contacts:
+Company CEO (Policies): [slimerplanet](https://github.com/slimerplanet) [email](mailto:eppuku@silverzonegames.com)<br/>
+Company President: [Luukas Paukkonen](https://github.com/luukasp) [email](mailto:luukasp@silverzonegames.com)
