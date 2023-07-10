@@ -23,7 +23,7 @@ We own and reserve all rights to the product and our brand (See: Brand guideline
 1. Infringes on our copyrights or trademarks;
 2. endangers our brand;
 3. is made to impersonate us, or;
-4. is content produced in an obviously malicios demeanor and that is against law.
+4. is content produced in an obviously malicious demeanor and that is against law.
 
 ## Application of this policy
 This policy applies to all Content Creators and their content, unless a prior agreement or contract is made with Silverzone.
