@@ -1,5 +1,5 @@
 # Content creator policy
-This policy was last modified on 5th of May 2023 (5.5.2023, May 5th 2023)
+This policy was last modified on 10th of July 2023 (10.7.2023, July 10th 2023)
 
 ## Introduction
 This is a policy published by Silverzone Oy (together with its affiliates and subsidiaries referred to as “Silverzone” or “we” or “our”) that outlines your (hereinafter referred to as "you" or "Content Creator") rights and our liabilities in you creating content of our products.
