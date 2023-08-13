@@ -26,3 +26,8 @@ The Software or Product referred to in this agreement, means, collectively and/o
 The Software or Product referred to in this agreement may contain assets and libraries from third-party sources, use of which are governed by the publishers' or distributors' own license agreements regardless of this document
 
 The terms of this agreement shall govern any Upgrades or Updates provided to you by Silverzone that replace or supplement the Software or Product, unless such Upgrade or Update is accompanied by another license, in which case the terms of that license prevail.
+
+# Change History
+| Date | Changed By | Changes |
+|------|------------|---------|
+| 13/08/2023 | luukasp@silverzonegames.com | Added Change History and published EULA@v1 on the website. |
