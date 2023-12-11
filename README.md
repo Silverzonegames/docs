@@ -27,7 +27,3 @@ Silverzone Oy (Silverzone) reserves all rights to modify, amend and revise any a
 2. to comply with any applicable law, regulation or otherwise enforceable legal actions or requests.
 
 All unilateral policy changes will be noted on the appendix and/or the last modified list.
-
-# Contacts:
-Company CEO (Policies): [slimerplanet](https://github.com/slimerplanet) [email](mailto:eppuku@silverzonegames.com)<br/>
-Company President: [Luukas Paukkonen](https://github.com/luukasp) [email](mailto:luukasp@silverzonegames.com)
