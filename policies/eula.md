@@ -14,16 +14,16 @@ By using the Software or Product, you acknowledge and agree that Silverzone owns
 # 4. GENERAL
 Silverzone licenses the Software or Product to you, and it is not sold. Your use is subject to the terms and conditions of this agreement. The Software or Product is protected by copyright and other intellectual property laws. The rights granted are limited to Silverzone's and its affiliates' intellectual property rights and exclude other patents or intellectual property. Additionally, the Software or Product may include license management software to control usage.
 
-# 5. SOFTWARE
-In this agreement, 'Software or Product' collectively refers to:
+# 5. SOFTWARE OR PRODUCT
+The Software or Product referred to in this agreement, means, collectively and/or as applicable:
 
 1. The Software or Product package, if any;
-2. All contents, components, attachments, software, media, and code provided through this EULA via any medium;
-3. Game Content, including design, characters, images, graphics, music, and other sensory elements (if applicable);
-4. Product Content, covering design, code, service workers, stylesheets, and libraries (if applicable);
-5. Upgrades, modified versions, updates, additions, expansion packs, and copies provided by Silverzone under this EULA.
+2. Any and all contents, components, attachments, software, media and code with which this EULA is provided and delivered through any medium;
+3. If applicable, any and all game design, characters, images, graphics, photographs, art, art work, clip art, text, fonts, music, sounds, voices or other sensory content (the “Game Content”);
+4. If applicable, any and all product design, background code, service workers, front-end structure, network code, integrated stylesheets, display assets and libraries (the “Product Content”);
+5. Upgrades, modified versions, updates, additions, expansion packs and copies of the Software or Product (the “Upgrades”), if any, provided to You by Silverzone under this EULA.
 
-Please note that the Software or Product may include assets and libraries from third-party sources, governed by separate license agreements from publishers or distributors.
+The Software or Product referred to in this agreement may contain assets and libraries from third-party sources, use of which are governed by the publishers' or distributors' own license agreements regardless of this document
 
 The terms of this agreement shall govern any Upgrades or Updates provided to you by Silverzone that replace or supplement the Software or Product, unless such Upgrade or Update is accompanied by another license, in which case the terms of that license prevail.
 
@@ -37,6 +37,18 @@ To the maximum extent permitted by applicable law, Silverzone and its affiliates
 
 In no event shall the aggregate liability of Silverzone and its affiliates, subsidiaries, directors, officers, employees, and licensors exceed the amount paid by you for the Software or Product giving rise to the claim.
 
+# 8. DISCLAIMER OF WARRANTIES
+
+The Software or Product is provided 'as is' and 'as available' without warranties of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. Silverzone and its affiliates, subsidiaries, directors, officers, employees, and licensors do not warrant that (i) the Software or Product will meet your specific requirements; (ii) the Software or Product will be uninterrupted, timely, secure, or error-free; (iii) the results that may be obtained from the use of the Software or Product will be accurate or reliable; (iv) the quality of any products, services, information, or other material purchased or obtained by you through the Software or Product will meet your expectations; and (v) any errors in the Software or Product will be corrected.
+
+# 9. GOVERNING LAW
+
+This agreement is governed by the laws of Finland, without regard to its conflict of law principles. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. You agree to submit to the personal and exclusive jurisdiction of the courts located within the city of Helsinki, Finland.
+
+# 10. CHANGES TO THIS EULA
+
+Silverzone reserves the right to change this agreement at any time. If we make changes, we will provide notice of such changes, such as by sending an email, providing a notice through the Software or Product, or updating the 'Last Updated' date at the beginning of this agreement. Your continued use of the Software or Product will confirm your acceptance of the revised agreement. We encourage you to review the agreement whenever you access the Software or Product to stay informed about our information practices and the ways you can help protect your privacy.
+
 # CONTACTS
 
 If you have any questions, concerns, or inquiries regarding this End User License Agreement (EULA) or the Software or Product, please contact us at the following address:
@@ -47,7 +59,8 @@ cs@silverzonegames.com
 We aim to address any issues promptly and appreciate your feedback.
 
 # Change History
-| Date | Changed By | Changed By Email | Changes |
-|------|------------|------------------|---------|
+| Date       | Changed By       | Changed By Email            | Changes                                                    |
+| ---------- | ---------------- | --------------------------- | ---------------------------------------------------------- |
 | 13/08/2023 | Luukas Paukkonen | luukasp@silverzonegames.com | Added Change History and published EULA@v1 on the website. |
-| 11/12/2023 | Luukas Paukkonen | luukasp@silverzonegames.com | Reworded agreement to be clearer |
+| 11/12/2023 | Luukas Paukkonen | luukasp@silverzonegames.com | Reworded agreement to be clearer                           |
+| 03/02/2024 | Luukas Paukkonen | luukasp@silverzonegames.com | Updated section 5 and added sections 8, 9, and 10          |
