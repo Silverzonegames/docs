@@ -1,39 +1,58 @@
-# Content creator policy
-This policy was last modified on 10th of July 2023 (10.7.2023, July 10th 2023)
+# Content Creator Policy
+
+*This policy was last modified on 8th of January 2024 (8.1.2024, January 8th 2024)*
 
 ## Introduction
-This is a policy published by Silverzone Oy (together with its affiliates and subsidiaries referred to as “Silverzone” or “we” or “our”) that outlines your (hereinafter referred to as "you" or "Content Creator") rights and our liabilities in you creating content of our products.
+
+This policy, published by Silverzone Oy (referred to as “Silverzone” or “we” or “our” and its affiliates), outlines the rights of Content Creators ("you") and our liabilities regarding the creation of content related to our products.
 
 ## Who qualifies as a Content Creator
-A Content Creator is, in scope of this policy, any person, group, organization or other entity, which produces content, such as videos, reviews, live content, fan art or other derivative works to one or more social platforms or other mediums such as YouTube, Twitch, personal blogs, news or other forms of digitally or physically available media.
+
+A Content Creator, within the scope of this policy, refers to any individual, group, organization, or entity producing content, including videos, reviews, live content, fan art, or other derivative works on platforms such as YouTube, Twitch, personal blogs, news, or other available media.
 
 ## Your rights and liabilities
-As a Content Creator, you own all rights to your content (including, without limitations the content, any possible sound or visual effects affiliated with your content as governed by their own license and all commentary) you do not, however own rights to the product or it's contents.
 
-You as the content creator also own all rights to sell or otherwise commercialize your works, such as fan art or videos, as long as you do not, in any capacity, 
+As a Content Creator, you own all rights to your content, including sound or visual effects affiliated with it. However, you do not own rights to the product or its contents.
 
-1. claim to represent Silverzone;
-2. sell or otherwise commercialize your works as "official"; and,
-3. clearly label your creations, such as fan art and reviews with appropriate labels;
+You have the right to sell or commercialize your works, such as fan art or videos, provided that you do not:
+- Claim to represent Silverzone
+- Sell or market your works as "official"
+- Clearly label your creations (e.g., fan art and reviews) with appropriate labels
 
-You as a Content Creator, agree to not impersonate us or otherwise endanger our brand.
+Content Creators own non-exclusive rights, allowing Silverzone to use the content for promotional purposes with attribution.
+
+You agree not to impersonate Silverzone or endanger our brand.
 
 ## Our rights and liabilities
-We own and reserve all rights to the product and our brand (See: Brand guidelines) and reserve the right to request removal of content that you or any other Content Creator owns if it
-1. Infringes on our copyrights or trademarks;
-2. endangers our brand;
-3. is made to impersonate us, or;
-4. is content produced in an obviously malicious demeanor and that is against law.
+
+We own and reserve all rights to the product and our brand (See: [Brand Guidelines](link-to-brand-guidelines)) and may request the removal of content if it:
+- Infringes on our copyrights or trademarks
+- Endangers our brand
+- Impersonates us
+- Is produced in an obviously malicious manner and against the law
+
+Adherence to Silverzone's brand guidelines is encouraged for positive brand representation.
 
 ## Application of this policy
+
 This policy applies to all Content Creators and their content, unless a prior agreement or contract is made with Silverzone.
 
-If there is conflict between this policy and any other prior agreement or contract with Silverzone the terms of said prior agreement or contract supersede the terms of this policy.
+In case of conflict between this policy and any prior agreement or contract with Silverzone, the terms of the prior agreement or contract supersede those of this policy.
 
 ## License grant
-Silverzone grants the rights outlined in this policy to all Content Creators.
+
+Silverzone grants the rights outlined in this policy to all Content Creators, including a non-exclusive, non-transferable license to create and share content related to our products.
+
+## Termination
+
+If you are found to be in violation of this policy, we may revoke your license to create content from our Intellectual Property and request a takedown of your content.
+
+## Changes to this policy
+
+Silverzone will communicate policy changes through official channels; Content Creators are responsible for staying updated.
 
 # Change History
 | Date | Changed By | Changes |
 |------|------------|---------|
 | 10/07/2023 | luukasp@silverzonegames.com | Changed wording, added a definition for Content Creator, <br/> defined commercial rights of content creators and added an applicability clause. |
+| 08/01/2024 | luukasp@silverzonegames.com | Reworded policy, changed language to be more specific, added termination and changes clauses |
